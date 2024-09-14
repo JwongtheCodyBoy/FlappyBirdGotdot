@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://ctyybcmedxylx"]
+
+[ext_resource type="Texture2D" uid="uid://d38ceuoo614k4" path="res://assets/bg.png" id="1_3dhvb"]
+
+[node name="main" type="Node2D"]
+
+[node name="Bg" type="Sprite2D" parent="."]
+texture = ExtResource("1_3dhvb")
+offset = Vector2(432, 384)
